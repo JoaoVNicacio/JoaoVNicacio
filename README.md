@@ -1,5 +1,5 @@
 - 👋 What's up, I’m João Victor Nicácio
-- 🌱 I’m currently learning JavaScript, Html, Css and Python
+- 🌱 I’m currently learning Node.JS, Python and ReactNative!
 - 📫 you can reach on my email: nicacio.joaovictor09@gmail.com
 
 
