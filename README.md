@@ -7,16 +7,16 @@
 > - Faço Onboard no Porto Digital;
 > - Realizei alguns projetos acadêmicos e de onboard desde 2018.
 
-## Quais tecnologias eu Venho usando e aprendendo?
+## Quais tecnologias eu venho usando e aprendendo?
 
 - Node.JS
 - JavaScript
 - TypeScript
 - SQL
+- MongoDB
 - React
-- NoSQL
-- Java
 - React Native
+- Java
 - Python
 
 
