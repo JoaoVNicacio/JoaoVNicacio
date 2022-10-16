@@ -20,7 +20,7 @@
 - Python
 
 
-### Quer conversar um pouco comigo?
+## Quer conversar um pouco comigo?
 Manda uma mensagem pelo:
 > - LinkedIn: https://www.linkedin.com/in/joao-victor-nicacio/ 
 > - E-mail: nicacio.joaovictor09@gmail.com
