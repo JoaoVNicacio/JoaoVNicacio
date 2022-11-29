@@ -18,6 +18,7 @@
 - React Native
 - Java
 - Python
+- HTML & CSS
 
 
 ## Quer conversar um pouco comigo?
