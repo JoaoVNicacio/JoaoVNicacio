@@ -7,8 +7,9 @@
 > - Faço Onboard no Porto Digital;
 > - Realizei alguns projetos acadêmicos e de onboard desde 2018.
 
-## Quais tecnologias eu venho usando e aprendendo?
+## Quais tecnologias eu tive contato e/ou venho usando e aprendendo?
 
+- .NET
 - Node.JS
 - JavaScript
 - TypeScript
