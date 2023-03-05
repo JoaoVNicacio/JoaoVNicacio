@@ -9,17 +9,17 @@
 
 ## Quais tecnologias eu tive contato e/ou venho usando e aprendendo?
 
-- .NET
-- Node.JS
-- JavaScript
-- TypeScript
-- SQL
-- MongoDB
-- React
-- React Native
-- Java
-- Python
-- HTML & CSS
+> - .NET
+> - Node.JS
+> - JavaScript
+> - TypeScript
+> - SQL
+> - MongoDB
+> - React
+> - React Native
+> - Java
+> - Python
+> - HTML & CSS
 
 
 ## Quer conversar um pouco comigo?
