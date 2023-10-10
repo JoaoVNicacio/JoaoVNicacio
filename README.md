@@ -2,8 +2,9 @@
 
 ## Quem sou?
 
-> - Sou um técnico em Desenvolvimento de Sistemas Recifense que é apaixonado por tecnologia e programação!
+> - Sou um Software Engineer e técnico em Desenvolvimento de Sistemas Recifense que é apaixonado por tecnologia e programação!
 > - Atualmente curso o ensino superior em Sistemas para Internet pela UNICAP (Universidade Católica de Pernambuco);
+> - Atuo atualmente com .NET numa estrutura de Microsserviçoes e Domain Driven Design
 > - Faço Onboard no Porto Digital;
 > - Realizei alguns projetos acadêmicos e de onboard desde 2018.
 
@@ -11,13 +12,13 @@
 
 > - .NET
 > - Node.JS
-> - JavaScript
 > - TypeScript
 > - SQL
+> - Java
 > - MongoDB
 > - React
 > - React Native
-> - Java
+> - JavaScript
 > - Python
 > - HTML & CSS
 
