@@ -56,7 +56,6 @@ These experiences made me have a broad approach and view to software engineering
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-5C2D91?style=for-the-badge&logo=cshrp&logoColor=white)
 ![React](https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://custom-icon-badges.demolab.com/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![WinUI](https://custom-icon-badges.demolab.com/badge/WinUI-0078D7?style=for-the-badge&logo=windows11&logoColor=white)
 ![WPF](https://custom-icon-badges.demolab.com/badge/WPF-512BD4?style=for-the-badge&logo=windows11&logoColor=white)
 ![UWP](https://custom-icon-badges.demolab.com/badge/UWP-0078D7?style=for-the-badge&logo=windows11&logoColor=white)
