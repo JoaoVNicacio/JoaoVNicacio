@@ -41,9 +41,6 @@ These experiences made me have a broad approach and view to software engineering
 ### Containers & CI/CD
 ![Docker](https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://custom-icon-badges.demolab.com/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
-
-
 
 ### 🧱 Architecture & Patterns
 ![Clean Architecture](https://custom-icon-badges.demolab.com/badge/Clean_Architecture-007ACC?style=for-the-badge&logo=abstract&logoColor=white)
@@ -52,19 +49,12 @@ These experiences made me have a broad approach and view to software engineering
 ![Model-View-Controller](https://custom-icon-badges.demolab.com/badge/MVC-258c11?style=for-the-badge&logo=abstract&logoColor=white)
 ![Model-View-ViewModel](https://custom-icon-badges.demolab.com/badge/MVVM-8E44AD?style=for-the-badge&logo=abstract&logoColor=white)
 
-### 💻 Front-End
+### 💻 Front-End (Web, Mobile & Desktop)
 ![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-5C2D91?style=for-the-badge&logo=cshrp&logoColor=white)
 ![React](https://custom-icon-badges.demolab.com/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![WinUI](https://custom-icon-badges.demolab.com/badge/WinUI-0078D7?style=for-the-badge&logo=windows11&logoColor=white)
 ![WPF](https://custom-icon-badges.demolab.com/badge/WPF-512BD4?style=for-the-badge&logo=windows11&logoColor=white)
 ![UWP](https://custom-icon-badges.demolab.com/badge/UWP-0078D7?style=for-the-badge&logo=windows11&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://custom-icon-badges.demolab.com/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
-
 
 ---
 
